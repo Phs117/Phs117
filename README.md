@@ -2,7 +2,7 @@
 
 - 🔭 I’m a EE Student.
 - ✨ My interest are:
--- Signal Processing,
+  Signal Processing,
   Digital Communication,
   Machine Learning
   and Data Science.
